@@ -1,5 +1,5 @@
 from transformers import pipeline
-from typing import Optional
+from typing import Optional, List
 import sys
 
 

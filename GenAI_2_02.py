@@ -3,6 +3,7 @@ from transformers import pipeline
 import requests
 import json
 import os
+
 from translator import translate_en, translate_ru
 
 # Simple class to store translation results
